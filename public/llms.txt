@@ -1,0 +1,57 @@
+# Oncology and Immunotherapy Lab — Generative Engine Optimization Map
+
+> A מחקר רפואי ומדעי business.
+
+---
+
+## Pages
+
+### דף הבית
+https://oncology-and-immunotherapy-lab-a7eab896.zappy5.app
+גלו את מעבדת האונקולוגיה והאימונותרפיה המובילה בישראל. מחשבונים מדעיים, ניהול מלאי ופרוטוקולי מחקר שיתופיים.
+
+### שירותים
+https://oncology-and-immunotherapy-lab-a7eab896.zappy5.app/services
+שירותי מחקר מתקדמים כולל מחשבונים מדעיים, מערכת ניהול מלאי למעבדת מחקר ופרוטוקולי אימונותרפיה שיתופיים.
+
+### אודות
+https://oncology-and-immunotherapy-lab-a7eab896.zappy5.app/about
+הכירו את מעבדת האונקולוגיה והאימונותרפיה המובילה בישראל. מחקר מתקדם, מחשבונים מדעיים וטכנולוגיה חדשנית.
+
+### צור קשר
+https://oncology-and-immunotherapy-lab-a7eab896.zappy5.app/contact
+צרו קשר עם מעבדת האונקולוגיה והאימונותרפיה לפרטים על מחשבונים מדעיים, מערכת ניהול מלאי ופרוטוקולי מחקר שיתופיים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://oncology-and-immunotherapy-lab-a7eab896.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://oncology-and-immunotherapy-lab-a7eab896.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://oncology-and-immunotherapy-lab-a7eab896.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Oncology and Immunotherapy Lab
+Oncology and Immunotherapy Lab is a business in the מחקר רפואי ומדעי industry.
+
+## Target Audience
+חוקרים וחברי צוות המעבדה
+
+## Industry
+מחקר רפואי ומדעי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://oncology-and-immunotherapy-lab-a7eab896.zappy5.app/sitemap.xml
+- **Robots.txt**: https://oncology-and-immunotherapy-lab-a7eab896.zappy5.app/robots.txt

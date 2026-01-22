@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oncology-and-immunotherapy-lab-a7eab896.zappy5.app/sitemap.xml
